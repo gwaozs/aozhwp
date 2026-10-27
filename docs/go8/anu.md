@@ -1,10 +1,11 @@
+<!--
 title: 澳洲国立大学毕业证样式规范与防伪解析：官方最新版学士/硕士证书排版特征指南
 meta_title: 澳洲国立大学毕业证样式规范_ANU毕业证最新排版防伪要素对照
 description: 独家深度解析澳大利亚国立大学（The Australian National University, ANU）毕业证书（Degree Certificate）的官方标准样式规范。本文全方位对比学士与硕士证书的字形排版、核心印章特征及2026年最新数字化My eQuals验证流程。
 keywords: 澳洲国立大学毕业证, 澳洲国立大学毕业证样式, 澳洲国立大学毕业证规范, ANU diploma, 澳洲国立大学学位证模板, 澳大利亚国立大学毕业证防伪
 author: 澳洲高等教育学术审查中心
 date: 2026-10-27
-
+-->
 # 澳洲国立大学毕业证 (The Australian National University diploma) 证书样式规范
 作为全球享有盛誉的顶尖学府，**澳洲国立大学（The Australian National University，简称ANU）**颁发的毕业证书（Diploma / Degree Certificate）不仅是毕业生学术成就的最高凭证，也是全球雇主、企事业单位以及中国教育部留学服务中心在进行资质审核时的核心文本。
 
